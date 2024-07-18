@@ -1,0 +1,22 @@
+.st-emotion-cache-1r6slb0{
+    padding:1rem;
+    border-radius: 0.5rem;
+    background-color: darkgoldenrod;
+}
+
+
+.target{
+    color: black;
+    font-weight: bolder;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+
+}
+
+.target.target1{
+    background-color: rgba(135, 216, 13, 0.746);
+}
+
+.target.target2{
+    background-color: red;
+}
