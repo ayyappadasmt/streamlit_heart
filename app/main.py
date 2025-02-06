@@ -50,7 +50,6 @@ def main():
     
     with st.container():
         st.title("HEART DISEASE PREDICTOR")
-        st.subheader("created by AYYAPPADAS M.T. , CSE STUDENT @ AMRITA VISHWAVIDYAPEETHAM")
         st.write("The Heart Disease Predictor ML model is an advanced machine learning tool designed to predict the likelihood of an individual developing heart disease. Utilizing a robust dataset encompassing various health indicators such as age, gender, cholesterol levels, blood pressure, and lifestyle factors, the model leverages sophisticated algorithms to analyze patterns and correlations within the data.")
     col1,col2=st.columns([2,4])
 
